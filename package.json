@@ -1,6 +1,6 @@
 {
   "name": "biz2credit-coding-challenge",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Assignment",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/ahari884/biz2credit-coding-challenge/issues"
   },
-  "homepage": "https://github.com/ahari884/biz2credit-coding-challenge#readme"
+  "homepage": "https://github.com/ahari884/biz2credit-coding-challenge#readme",
+  "dependencies": {
+    "biz2credit-challange": "^1.0.2"
+  }
 }
