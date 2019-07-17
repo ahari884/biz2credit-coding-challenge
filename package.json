@@ -1,0 +1,25 @@
+{
+  "name": "biz2credit-coding-challenge",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ahari884/biz2credit-coding-challenge.git"
+  },
+  "keywords": [
+    "GPS",
+    "GPS",
+    "coordinates",
+    "distance"
+  ],
+  "author": "Harish Allakonda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahari884/biz2credit-coding-challenge/issues"
+  },
+  "homepage": "https://github.com/ahari884/biz2credit-coding-challenge#readme"
+}
